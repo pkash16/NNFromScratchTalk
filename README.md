@@ -1,4 +1,4 @@
-# NNFromScratchTalk
+# Neural Network From Scratch "Talk"
 A Julia Pluto.jl notebook building a neural network from scratch and classifying handwritten digits from MNIST. \
 Based off of the paper [here](https://towardsdatascience.com/how-to-build-an-artificial-neural-network-from-scratch-in-julia-c839219b3ef8).
 
